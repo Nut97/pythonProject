@@ -4,3 +4,6 @@ year=int(input("请输入你的出生年份:"))
 print(chinese_zodiac[year % 12])
 if ("狗" in chinese_zodiac):
     print('在十二生肖')
+
+
+#我现在很多python的语法都忘完求了
